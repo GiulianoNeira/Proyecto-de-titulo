@@ -8,7 +8,7 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 
 ---
 
-## 🌟 [Características Principales]
+## 🌟 Características Principales
 
 - **Visualización de locales** con imágenes, ubicaciones y horarios específicos de apertura y cierre.
 - **Menús detallados** con nombre, precio, descripción, y etiquetas de alimentos (celíaca, vegana, vegetariana).
@@ -17,22 +17,15 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 ---
 
 ## 📑 Índice
-[Características Principales](#Características-Principales)🌟
-[Texto del enlace](#identificador)
-[Texto del enlace](#identificador)
-[Texto del enlace](#identificador)
-[Contacto](#Contacto)
-[Texto del enlace](#identificador)
 
-Características Principales 🌟
-Estructura del Proyecto 📂
-Instalación 🚀
-Uso 🛠️
-Esquema de la Base de Datos 🗄️
-Tecnologías Utilizadas 🧰
-Contribuciones 🤝
-Contacto 📬
-Licencia 📜
+- [Características Principales](#características-principales)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Esquema de la Base de Datos](#esquema-de-la-base-de-datos)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Contribuciones](#contribuciones)
+- [Contacto](#contacto)
 
 ---
 
@@ -158,10 +151,5 @@ Para más información, puedes contactar a:
 
 ---
 
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-
----
 
 Este es el esqueleto básico, pero puedes personalizar cualquier sección o agregar más detalles específicos sobre la instalación o el uso según lo necesites. ¡Espero que te sea útil para tener una presentación sólida de tu proyecto en GitHub!
