@@ -13,7 +13,20 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 - **Visualización de locales** con imágenes, ubicaciones y horarios específicos de apertura y cierre.
 - **Menús detallados** con nombre, precio, descripción, y etiquetas de alimentos (celíaca, vegana, vegetariana).
 - **Valoraciones de los alimentos** para que los usuarios puedan calificar, mostrando un promedio general para cada local.
-  
+
+---
+
+## 📑 Índice
+Características Principales 🌟
+Estructura del Proyecto 📂
+Instalación 🚀
+Uso 🛠️
+Esquema de la Base de Datos 🗄️
+Tecnologías Utilizadas 🧰
+Contribuciones 🤝
+Contacto 📬
+Licencia 📜
+
 ---
 
 ## 📂 Estructura del Proyecto
