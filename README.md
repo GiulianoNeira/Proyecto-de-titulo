@@ -63,13 +63,13 @@ TESIS-MENUBB/
 1. Clonar el repositorio:  
 
    ```bash
-   git clone https://github.com/usuario/MENUBBAPP.git
+   git clone https://github.com/PabloCastilloFer/Tesis-MENUBB.git
    ```
    
 3. Entrar en el directorio del proyecto:  
 
    ```bash
-   cd MENUBB
+   cd TESIS-MENUBB
    ```
    
 4. Instalar dependencias del backend y frontend:
