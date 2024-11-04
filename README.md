@@ -8,7 +8,7 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 
 ---
 
-## 🌟 Características Principales (#Características-Principales)
+## 🌟 [Características Principales]
 
 - **Visualización de locales** con imágenes, ubicaciones y horarios específicos de apertura y cierre.
 - **Menús detallados** con nombre, precio, descripción, y etiquetas de alimentos (celíaca, vegana, vegetariana).
@@ -17,7 +17,7 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 ---
 
 ## 📑 Índice
-[Características Principales]🌟
+[Características Principales](#Características-Principales)🌟
 [Texto del enlace](#identificador)
 [Texto del enlace](#identificador)
 [Texto del enlace](#identificador)
