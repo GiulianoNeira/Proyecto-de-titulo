@@ -2,7 +2,7 @@
 
 # MENUBB 🍽️
 
-Aplicación móvil y pagina web que muestra locales de comida dentro de la Universidad del Bío-Bío, brindando a los usuarios una experiencia rápida y accesible para ver menús, horarios, disponibilidad de alimentos y valoraciones.
+Aplicación móvil android y a su vez pagina web que muestra locales de comida dentro de la Universidad del Bío-Bío, brindando a los usuarios una experiencia rápida y accesible para ver menús, horarios, disponibilidad de alimentos y valoraciones.
 
 ---
 
@@ -81,7 +81,6 @@ TESIS-MENUBB/
 
    # Frontend
    ----------
-   
    ```
    
 5. Configurar variables de entorno en un archivo `.env` en cada carpeta (Backend y Frontend).
