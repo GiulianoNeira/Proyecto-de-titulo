@@ -8,7 +8,7 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 
 ---
 
-## 🌟 Características Principales
+## Características Principales
 
 - **Visualización de locales** con imágenes, ubicaciones y horarios específicos de apertura y cierre.
 - **Menús detallados** con nombre, precio, descripción, y etiquetas de alimentos (celíaca, vegana, vegetariana).
@@ -16,9 +16,8 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 
 ---
 
-## 📑 Índice
+## Índice
 
-- [Características Principales](#características-principales)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -29,7 +28,7 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```plaintext
 MENUBBAPP/
@@ -53,7 +52,7 @@ MENUBBAPP/
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 ### Prerrequisitos
 
@@ -84,7 +83,7 @@ MENUBBAPP/
 
 ---
 
-## 🛠️ Uso
+## Uso
 
 Para ejecutar el proyecto en modo de desarrollo:
 
@@ -100,7 +99,7 @@ npx expo start
 
 ---
 
-## 🗄️ Esquema de la Base de Datos
+## Esquema de la Base de Datos
 
 Ejemplo de un esquema básico para `Local` y `Horario` en MongoDB:
 
@@ -123,7 +122,7 @@ const LocalSchema = new mongoose.Schema({
 
 ---
 
-## Tecnologías Utilizadas  🧰 
+## Tecnologías Utilizadas
 
 - **Frontend:** React Native, Expo
 - **Backend:** Node.js, Express
@@ -142,7 +141,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor sigue los sig
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Para más información, puedes contactar a:
 
