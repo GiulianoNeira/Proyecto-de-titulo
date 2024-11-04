@@ -131,7 +131,7 @@ const LocalSchema = new mongoose.Schema({
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor sigue los siguientes pasos:
 
