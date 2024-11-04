@@ -123,7 +123,7 @@ const LocalSchema = new mongoose.Schema({
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## Tecnologías Utilizadas  🧰 
 
 - **Frontend:** React Native, Expo
 - **Backend:** Node.js, Express
