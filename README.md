@@ -17,6 +17,13 @@ Aplicación móvil que muestra locales de comida dentro de la Universidad del B�
 ---
 
 ## 📑 Índice
+[Características Principales](#Características-Principales) 🌟
+[Texto del enlace](#identificador)
+[Texto del enlace](#identificador)
+[Texto del enlace](#identificador)
+[Texto del enlace](#identificador)
+[Texto del enlace](#identificador)
+
 Características Principales 🌟
 Estructura del Proyecto 📂
 Instalación 🚀
