@@ -26,6 +26,27 @@ Aplicación móvil android y a su vez pagina web que muestra locales de comida d
 
 ---
 
+## Tecnologías Utilizadas
+
+- **Base de Datos:** MongoDB Atlas
+- **Backend:** Node.js, Express
+- **Frontend:** -------------
+
+## Versiones
+
+A continuación se indican las versiones de las principales tecnologías utilizadas en este proyecto:
+
+- **cors:** ^2.8.5
+- **dotenv:** ^16.4.5
+- **express:** ^4.21.1
+- **joi:** ^17.13.3
+- **mongoose:** ^8.7.3
+- **morgan:** ^1.10.0
+- **nodemon:** ^3.1.7
+
+> ⚠️ **Nota**: Es recomendable usar estas versiones para evitar problemas de compatibilidad.
+
+---
 ## Estructura del Proyecto
 
 ```plaintext
@@ -113,29 +134,6 @@ Esquema de la base de datos, para la cual se esta utilizando en MongoDB:
 insertar imagen
 
 ```
-
----
-
-## Tecnologías Utilizadas
-
-- **Base de Datos:** MongoDB Atlas
-- **Backend:** Node.js, Express
-- **Frontend:** -------------
-
-## Dependencias y Versiones
-
-A continuación se indican las versiones de las principales tecnologías utilizadas en este proyecto:
-
-- **cors:** ^2.8.5
-- **dotenv:** ^16.4.5
-- **express:** ^4.21.1
-- **joi:** ^17.13.3
-- **mongoose:** ^8.7.3
-- **morgan:** ^1.10.0
-- **nodemon:** ^3.1.7
-
-> ⚠️ **Nota**: Es recomendable usar estas versiones para evitar problemas de compatibilidad.
-
 
 ---
 
