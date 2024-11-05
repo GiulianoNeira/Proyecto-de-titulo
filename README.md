@@ -126,15 +126,13 @@ insertar imagen
 
 A continuación se indican las versiones de las principales tecnologías utilizadas en este proyecto:
 
-- **MongoDB Atlas**: Versión de MongoDB usada
-- **Node.js**: vX.X.X
-- **npm**: vX.X.X
-- **React Native**: vX.X.X
-- **Expo**: SDK X.X.X
-- **Express**: vX.X.X
-- **Mongoose**: vX.X.X
-- **@react-navigation/native**: vX.X.X
-- **@react-navigation/stack**: vX.X.X
+- **cors:** ^2.8.5
+- **dotenv:** ^16.4.5
+- **express:** ^4.21.1
+- **joi:** ^17.13.3
+- **mongoose:** ^8.7.3
+- **morgan:** ^1.10.0
+- **nodemon:** ^3.1.7
 
 > ⚠️ **Nota**: Es recomendable usar estas versiones para evitar problemas de compatibilidad.
 
