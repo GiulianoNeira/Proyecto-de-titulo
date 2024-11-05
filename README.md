@@ -16,12 +16,12 @@ Aplicación móvil android y a su vez pagina web que muestra locales de comida d
 
 ## Índice
 
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Versiones](#versiones)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Esquema de la Base de Datos](#esquema-de-la-base-de-datos)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Dependencias y Versiones](#dependencias-y-versiones)
 - [Contacto](#contacto)
 
 ---
