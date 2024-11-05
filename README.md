@@ -145,5 +145,7 @@ Para más información, puedes contactar a:
 
 - **Luis Giuliano Acuña Neira**  
 - **Correo:** [Luis.acuna2101@alumnos.ubiobio.cl](mailto:Luis.acuna2101@alumnos.ubiobio.cl)
+- **Pablo Andrés Castillo Fernández**  
+- **Correo:** [Pablo.castillo2101@alumnos.ubiobio.cl](mailto:Pablo.castillo2101@alumnos.ubiobio.cl)
 
 ---
